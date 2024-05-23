@@ -12,7 +12,7 @@
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ldavis36706/azure-network-protocols)
 
 - <b>DNS</b>
-- [Inspect DNS A-Records on the server](https://github.com/Ldavis36706/configure-ad)
+- [Inspect DNS A-Records on the server](https://github.com/Ldavis36706/dns)
 - [Create A-Records on the server and observe them from the client](https://github.com/Ldavis36706/azure-network-protocols)
 
 - <b>Create a VPN</b>
