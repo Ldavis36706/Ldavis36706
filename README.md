@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Development Project:</h2>
 
-  - [Kesha's Icecream Shop (Automated order taking icecream application)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Kesha's Icecream Shop (Automated order taking icecream application)](https://github.com/Ldavis36706/Kesha-s-Icecream-Shop)
 
 <h2>👨‍💻 Cybersecurtiy Projects:</h2>
 
