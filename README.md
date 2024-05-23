@@ -16,7 +16,7 @@
 - [Create A-Records on the server and observe them from the client](https://github.com/Ldavis36706/a-records)
 
 - <b>Create a VPN</b>
-- [Observe IP address differences with VPN and a virtual machine](https://github.com/Ldavis36706/azure-network-protocols)
+- [Observe IP address differences with VPN and a virtual machine](https://github.com/Ldavis36706/vpn)
 
 
 <h2>👨‍💻 Cybersecurtiy Project:</h2>
