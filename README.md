@@ -3,7 +3,21 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Ldavis36706/ActiveDirectory)
+  - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Post-Installation Configuration](https://github.com/Ldavis36706/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Ldavis36706/ticket-lifecycle)
+    
+- <b>Microsoft Azure</b>
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/Ldavis36706/configure-ad)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ldavis36706/azure-network-protocols)
+
+- <b>DNS</b>
+- [Inspect DNS A-Records on the server](https://github.com/Ldavis36706/configure-ad)
+- [Create A-Records on the server and observe them from the client](https://github.com/Ldavis36706/azure-network-protocols)
+
+- <b>Create a VPN</b>
+- [Observe IP address differences with VPN and a virtual machine](https://github.com/Ldavis36706/azure-network-protocols)
+
 
 <h2>👨‍💻 Cybersecurtiy Project:</h2>
 
