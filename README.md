@@ -19,9 +19,9 @@
 - [Observe IP address differences with VPN and a virtual machine](https://github.com/Ldavis36706/vpn)
 
 
-<h2>👨‍💻 Cybersecurtiy Project:</h2>
+<h2>👨‍💻 Cybersecurity Project:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Ldavis36706/ActiveDirectory)
+  - [Honeynet Lab](https://github.com/Ldavis36706/Honeynet)
 
 <h2>👨‍💻 Python Development Project:</h2>
 
