@@ -1,12 +1,17 @@
 <h1>Hi, I'm Lakesha! <br/><a href="https://github.com/Ldavis36706"><a href="https://www.linkedin.com/in/lakesha-hunter/">IT Professional</a>, <a href="https://www.linkedin.com/in/lakesha-hunter/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Python Development Project:</h2>
 
-  - [Kesha's Icecream Shop (Automated order taking icecream application)](https://github.com/Ldavis36706/Kesha-s-Icecream-Shop)
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/Ldavis36706/ActiveDirectory)
 
 <h2>👨‍💻 Cybersecurtiy Project:</h2>
 
   - [Active Directory Home Lab](https://github.com/Ldavis36706/ActiveDirectory)
+
+<h2>👨‍💻 Python Development Project:</h2>
+
+  - [Kesha's Icecream Shop (Automated order taking icecream application)](https://github.com/Ldavis36706/Kesha-s-Icecream-Shop)
 
 <h2>👨‍💻 Certifications:</h2>
 
