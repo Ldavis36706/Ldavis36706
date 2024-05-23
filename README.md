@@ -4,7 +4,7 @@
 
   - [Kesha's Icecream Shop (Automated order taking icecream application)](https://github.com/Ldavis36706/Kesha-s-Icecream-Shop)
 
-<h2>👨‍💻 Cybersecurtiy Projects:</h2>
+<h2>👨‍💻 Cybersecurtiy Project:</h2>
 
   - [Active Directory Home Lab](https://github.com/Ldavis36706/ActiveDirectory)
 
