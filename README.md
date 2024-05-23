@@ -1,9 +1,8 @@
 <h1>Hi, I'm Lakesha! <br/><a href="https://github.com/Ldavis36706"><a href="https://www.linkedin.com/in/lakesha-hunter/">IT Professional</a>, <a href="https://www.linkedin.com/in/lakesha-hunter/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Python Development Project:</h2>
 
- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Kesha's Icecream Shop (Automated order taking icecream application)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Cybersecurtiy Projects:</h2>
 
