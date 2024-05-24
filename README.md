@@ -13,7 +13,7 @@
 
 - <b>DNS</b>
 - [Inspect DNS A-Records on the server](https://github.com/Ldavis36706/dns)
-- [Create A-Records on the server and observe them from the client](https://github.com/Ldavis36706/a-records)
+- [Create CNAME Records on the server and observe them from the client](https://github.com/Ldavis36706/a-records)
 
 - <b>Create a VPN</b>
 - [Observe IP address differences with VPN and a virtual machine](https://github.com/Ldavis36706/vpn)
