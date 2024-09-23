@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lakesha! <br/><a href="https://github.com/Ldavis36706"><a href="https://www.linkedin.com/in/lakesha-hunter/">IT Professional</a>, <a href="https://www.linkedin.com/in/lakesha-hunter/">Cybersecurity Professional</a>,  <a href="https://www.linkedin.com/in/lakesha-hunter/">Cloud Developer</a>,<a href="https://www.youtube.com/c/">YouTuber</a></h1>
+<h1>Hi, I'm Lakesha! <br/><a href="https://github.com/Ldavis36706"><a href="https://www.linkedin.com/in/lakesha-hunter/">IT Professional</a>, <a href="https://www.linkedin.com/in/lakesha-hunter/">Cybersecurity Professional</a>,  <a href="https://www.linkedin.com/in/lakesha-hunter/">Cloud Developer</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
 
 <h2>👨‍💻Cloud Deveoloper/Engineer Projects:</h2>
 
