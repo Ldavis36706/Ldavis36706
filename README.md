@@ -1,10 +1,9 @@
-<h1>Hi, I'm Lakesha! <br/><a href="https://github.com/Ldavis36706"><a href="https://www.linkedin.com/in/lakesha-hunter/">IT Professional</a>, <a href="https://www.linkedin.com/in/lakesha-hunter/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Lakesha! <br/><a href="https://github.com/Ldavis36706"><a href="https://www.linkedin.com/in/lakesha-hunter/">IT Professional</a>, <a href="https://www.linkedin.com/in/lakesha-hunter/">Cybersecurity Professional</a>,  <a href="https://www.linkedin.com/in/lakesha-hunter/">Cloud Developer</a>,<a href="https://www.youtube.com/c/">YouTuber</a></h1>
 
-<h2>👨‍💻Cloud Engineer Projects:</h2>
+<h2>👨‍💻Cloud Deveoloper/Engineer Projects:</h2>
 
   - <b>Improving High Availability with Auto Scaling </b>
-  - [osTicket: Post-Installation Configuration](https://github.com/Ldavis36706/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Ldavis36706/ticket-lifecycle)
+  - Improving High Availability with Auto Scaling](https://github.com/Ldavis36706/Improving-High-Availability-/blob/main/README.md)
     
 
 <h2>👨‍💻 Information Technology Projects:</h2>
