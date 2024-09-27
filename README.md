@@ -4,7 +4,7 @@
 
 
   - [Improving High Availability with Auto Scaling](https://github.com/Ldavis36706/Improving-High-Availability-/blob/main/README.md)
-  - [Troubleshooting Connectivity in a Virtual Private Cloud](https://github.com/Ldavis36706/Troubleshooting-Connectivity-in-a-Virtual-Private-Cloud-VPC-d)
+  - [Troubleshooting Connectivity in a Virtual Private Cloud](https://github.com/Ldavis36706/Troubleshooting-Connectivity-in-a-Virtual-Private-Cloud-VPC)
     
 
 <h2>👨‍💻 Information Technology Projects:</h2>
