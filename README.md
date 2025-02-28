@@ -5,9 +5,10 @@
 
   - [Improving High Availability with Auto Scaling](https://github.com/Ldavis36706/Improving-High-Availability-/blob/main/README.md)
   - [Troubleshooting Connectivity in a Virtual Private Cloud](https://github.com/Ldavis36706/Troubleshooting-Connectivity-in-a-Virtual-Private-Cloud-VPC-)
-  - [Securing-Network-Posture-with-AWS-VPC-Network-Access-Analyzer](https://github.com/Ldavis36706/Securing-Network-Posture-with-AWS-VPC-Network-Access-Analyzer/blob/main/README.md)
-  - [Creating-a-Webpage-and-Troubleshooting-Web-Server-Configuration-in-AWS-Cloud9](https://github.com/Ldavis36706/Creating-a-Webpage-and-Troubleshooting-Web-Server-Configuration-in-AWS-Cloud9/blob/main/README.md)
+  - [Securing Network Posture with AWS VPC - Network Access Analyzer](https://github.com/Ldavis36706/Securing-Network-Posture-with-AWS-VPC-Network-Access-Analyzer/blob/main/README.md)
+  - [Creating a Webpage and Troubleshooting Web Server Configuration in AWS Cloud9](https://github.com/Ldavis36706/Creating-a-Webpage-and-Troubleshooting-Web-Server-Configuration-in-AWS-Cloud9/blob/main/README.md)
   - [Building A Customer Onboarding App](https://github.com/Ldavis36706/Building-a-Customer-Onboarding-App)
+  - [Deploying a Lambda Function](https://github.com/Ldavis36706/Deploying-a-Lambda-Function/edit/main/README.md)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
